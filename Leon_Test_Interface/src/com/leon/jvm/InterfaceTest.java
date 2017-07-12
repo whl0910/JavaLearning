@@ -3,7 +3,7 @@ package com.leon.jvm;
 import java.util.Date;
 
 public interface InterfaceTest {
-	//变量
+	//变量1
 	int a = 1;
 	Date birthday =  new Date();
 
